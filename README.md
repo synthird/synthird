@@ -4,7 +4,7 @@
   - 🕹️ I got into it when I started learning to make video games.
   - 📘 The first language I learned was [Lua](https://lua.org/).
 - 🎨 I also create [art](https://cara.app/synthird).
-- ⚡ Fun fact: You are reading this in the present!
+- ⚡ Fun fact: You're reading this in the present!
 
 <details>
   <summary>:octocat: GitHub activity card (Doesn't indicate proficiency.)</summary> <br>
