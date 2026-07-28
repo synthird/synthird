@@ -7,7 +7,7 @@
 - ⚡ Fun fact: You're reading this in the present!
 
 <details>
-  <summary>:octocat: GitHub activity card (Doesn't indicate proficiency.)</summary>
+  <summary>:octocat: GitHub activity card (Doesn't indicate proficiency.)</summary> <br>
 
   [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 </details>
