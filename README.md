@@ -2,12 +2,12 @@
 
 - 🕛 I've been programming since mid 2020.
   - 🕹️ I got into it when I started learning to make video games.
-  - 📘 The first language I learned was [Lua](https://lua.org/). (Its been a while since I've last used it.)
+  - 📘 The first language I learned was [Lua](https://lua.org/). (Its been a while since I've last used it)
 - 🎨 I also create [art](https://cara.app/synthird), [audio](https://audio.com/synthird), and other things.
 - ⚡ Fun fact: You're reading this in the present!
 
 <details>
-  <summary>:octocat: GitHub activity card (Doesn't indicate proficiency.)</summary> <br>
+  <summary>:octocat: GitHub activity card (Doesn't indicate proficiency)</summary> <br>
 
   [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 </details>
