@@ -1,6 +1,6 @@
 ## ```<greeting>```Hi there!```</greeting>```
 
-- 🕛 I've been programming since mid 2020.
+I've been programming since mid 2020. 🕛
 
 <details>
   <summary>:octocat: GitHub activity card (Doesn't indicate proficiency)</summary> <br>
